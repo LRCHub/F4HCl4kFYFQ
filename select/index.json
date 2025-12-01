@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "japan",
+  "base_artist": "Yot Club",
+  "createdAt": "2025-12-01T08:43:51.478755Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Made In Japan",
+      "artist": "Buck Owens",
+      "has_synced": true,
+      "path": "select/01_Made_In_Japan_Buck_Owens.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lovers In Japan / Reign of Love",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/02_Lovers_In_Japan___Reign_of_Love_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lovers In Japan, Reign Of Love",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/03_Lovers_In_Japan,_Reign_Of_Love_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "japan 实瓜",
+      "artist": "My Little Airport",
+      "has_synced": true,
+      "path": "select/04_japan_实瓜_My_Little_Airport.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lovers In Japan \u0000 Reign Of Lov",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/05_Lovers_In_Japan_\u0000_Reign_Of_Lov_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Japan",
+      "artist": "Bodysync feat. Ryan Hemsworth, Giraffage & Devin Morrison",
+      "has_synced": true,
+      "path": "select/06_Japan_Bodysync_feat._Ryan_Hemsworth,_Giraffage_&_Devin_Morrison.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Japan",
+      "artist": "Giraffage, Ryan Hemsworth & Bodysync feat. Devin Morrison",
+      "has_synced": true,
+      "path": "select/07_Japan_Giraffage,_Ryan_Hemsworth_&_Bodysync_feat._Devin_Morrison.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dead In The Water (Live At RTE 2FM Studios, Dublin) (Japan Bonus Track)",
+      "artist": "Noel Gallagher's High Flying Birds",
+      "has_synced": true,
+      "path": "select/08_Dead_In_The_Water_(Live_At_RTE_2FM_Studios,_Dublin)_(Japan_Bonus_Track)_Noel_Gallagher's_High_Flying_Birds.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Answer feat. Big in Japan (Baltimore) - Trentemøller Remix",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/09_The_Answer_feat._Big_in_Japan_(Baltimore)_-_Trentemøller_Remix_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Answer (feat. Big In Japan (Baltimore))",
+      "artist": "UNKLE",
+      "has_synced": true,
+      "path": "select/10_The_Answer_(feat._Big_In_Japan_(Baltimore))_UNKLE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Japan ist weit",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/11_Japan_ist_weit_Sandra.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Japan Ist Weit",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/12_Japan_Ist_Weit_Sandra.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Japan Air",
+      "artist": "Anamanaguchi",
+      "has_synced": true,
+      "path": "select/13_Japan_Air_Anamanaguchi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Japan",
+      "artist": "CocoRosie",
+      "has_synced": true,
+      "path": "select/14_Japan_CocoRosie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Great Big Disco World (Live at the Milky Robot, Osaka, Japan 2006)",
+      "artist": "Information Society",
+      "has_synced": false,
+      "path": "select/15_Great_Big_Disco_World_(Live_at_the_Milky_Robot,_Osaka,_Japan_2006)_Information_Society.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Japanese Soul Brothers",
+      "artist": "二代目 J Soul Brothers + 三代目 J Soul Brothers",
+      "has_synced": false,
+      "path": "select/pl_01_Japanese_Soul_Brothers_二代目_J_Soul_Brothers_+_三代目_J_Soul_Brothers.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Japanese Soul Brothers",
+      "artist": "二代目 J Soul Brothers + 三代目 J Soul Brothers",
+      "has_synced": false,
+      "path": "select/pl_02_Japanese_Soul_Brothers_二代目_J_Soul_Brothers_+_三代目_J_Soul_Brothers.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "japanese soul brothers",
+      "artist": "二代目 J Soul Brothers + 三代目 J Soul Brothers",
+      "has_synced": false,
+      "path": "select/pl_03_japanese_soul_brothers_二代目_J_Soul_Brothers_+_三代目_J_Soul_Brothers.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Japanese Soul Brothers",
+      "artist": "二代目 J Soul Brothers + 三代目 J Soul Brothers",
+      "has_synced": false,
+      "path": "select/pl_04_Japanese_Soul_Brothers_二代目_J_Soul_Brothers_+_三代目_J_Soul_Brothers.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Japanese-Pop-Music",
+      "artist": "二代目 J Soul Brothers + 三代目 J Soul Brothers",
+      "has_synced": false,
+      "path": "select/pl_05_Japanese-Pop-Music_二代目_J_Soul_Brothers_+_三代目_J_Soul_Brothers.txt"
+    }
+  ]
+}
